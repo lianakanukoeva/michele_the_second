@@ -483,7 +483,7 @@
         if (age) {
             $('.user-age').text(age);
         }
-    </script>
+    </script> 
 
     <script>
         $(".to_form").on("touchend, click", function(e) {
