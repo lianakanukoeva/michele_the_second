@@ -57,7 +57,7 @@
             <div class="content__info">
                 <div class="content__text">
                     <div class="content__profile">
-                        <img src="assets/img/michele.jpg" alt="">
+                        <img class="content__img" src="assets/img/michele.jpg" alt="">
                     </div>
                     <p class="content__name">Michele Mirabella</p>
                     <p class="paragraph">
@@ -66,7 +66,7 @@
                         e mi sento felice di aver aiutato migliaia di persone a dimenticare per sempre i problemi "in eccesso".
                     </p>
                     <h2>La scienza è una magia moderna.</h2>
-                    <img src="assets/img/prezentati.jpg" alt="">
+                    <img class="content__img" src="assets/img/prezentati.jpg" alt="">
                     <p class="paragraph">
                         Dicono che i miracoli non ci sono. Ciò non è vero. Non esistono pozioni magiche e incantesimi segreti. Ci sono le cose che più efficienti. Anni di ricerca ed esperienza scientifica fanno la vera magia. Durante la mia carriera di farmacista, ho visto una
                         marea di farmaci per la perdita di peso. Alcuni hanno davvero aiutato, altri hanno solo creato l'illusione. Durante il lavoro sull'edizione del mio programma, ho incontrato tante persone. Tutti quanti erano preoccupati per la loro
@@ -78,7 +78,7 @@
                     <p class="paragraph paragraph-itali">
                         Come posso apparire da voi in diretta? La mia scoperta cambierà la vita di tante persone. Ho creato un farmaco unico che aiuta ad eliminare per sempre il peso in eccesso.
                     </p>
-                    <img src="assets/img/michele.jpg" alt="">
+                    <img class="content__img" src="assets/img/clinic.jpg" alt="">
                     <p>фото мужика с формацевтом</p>
                     <p class="paragraph">
                         Non ho dato importanza alle sue parole (i giovani specialisti a volte esagerano i loro successi). Ma per sicurezza, ho deciso di scambiare i contatti.
@@ -87,8 +87,7 @@
                         Una settimana dopo, mi sono pentito della mia disistima. Marta mi ha inviato la sua ricerca. I risultati erano sorprendenti. In tutta la mia carriera non ho mai visto niente di simile. Inoltre, anche i casi a me noti dalla letteratura medica non avevano
                         una base comprovante così forte. Marta ha condotto un esperimento con 20 partecipanti. Il gruppo ha mostrato un successo incredibile: la perdita di peso media in <span>30 giorni era di 12 kg!</span>
                     </p>
-                    <img src="assets/img/do_posle.jpg" alt="">
-                    <p>тут нужна диаграмма</p>
+                    <img class="chart" src="assets/img/chart.jpg" alt="">
                     <p class="paragraph">
                         Ho capito che non mi sarei perdonato per un'occasione mancata. Marta ha davvero talento.
                     </p>
@@ -102,15 +101,15 @@
                         elaborato più di 100.000 ordini. Per alcuni sono solo numeri, ma noi sappiamo che più di 100.000 persone hanno potuto indossare di nuovo i loro jeans preferiti. Alcuni mesi fa abbiamo iniziato a fornire Reduslim fuori dall'Italia
                         e abbiamo già conquistato la fiducia nel mercato estero.
                     </p>
-                    <img src="assets/img/do_posle.jpg" alt="">
+                    <img class="content__img" src="assets/img/do_posle.jpg" alt="">
                     <h2>Un nuovo stile di vita inizia non solo il lunedì.</h2>
                     <p class="paragraph">
                         A causa dell'elevato numero di ordini, abbiamo dovuto affrontare una temporanea carenza di farmaco. Le persone hanno bisogno di Reduslim. Abbiamo deciso di ampliare la produzione. Nelle prossime 2 settimane è previsto un nuovo lotto del farmaco, per i
                         residenti all'estero il prezzo sarà di 99 euro.
                     </p>
-                    <img src="assets/img/thank-pack.png" alt="">
+                    <img class="content__img" src="assets/img/thank-pack.png" alt="">
                     <p class="paragraph">
-                        Fortunatamente, anche nelle prime fasi del nostro sviluppo, siamo riusciti a ottenere il sostegno dello Stato. Pertanto, per i residenti di Italia, un biglietto per una nuova vita costerà solo 38 euro. Puoi entrare nel tuo sito di consegna preferito e
+                        Fortunatamente, anche nelle prime fasi del nostro sviluppo, siamo riusciti a ottenere il sostegno dello Stato. Pertanto, per i residenti di Italia, un biglietto per una nuova vita costerà solo 39 euro. Puoi entrare nel tuo sito di consegna preferito e
                         mangiare la pizza in un paio d'ore. E poi trascorrere giorni e settimane faccendo gli allenamenti stancanti. Oppure puoi dedicare un paio di minuti e compilare il modulo sul nostro sito web. E tra un mese, essere una star della
                         stagione estiva in spiaggia. La scelta è ovvia, vero?
                     </p>
@@ -128,8 +127,12 @@
                         </div>
                         <input type='hidden' name='subid' value='{clickid}' />
                         <input type='hidden' name='subid1' value='{clickid}' />
+                        <div class="form__cost-block">
+                            <label class="form__cost">99 euro</label><br>
+                            <label class="form__sale">39 euro</label>
+                        </div>
                         <button type="submit" class="button-submit">
-                            <span class="button-submit-text">ORDINA CON SCONTO DEL 50%</span>
+                            <span class="button-submit-text">ordinare adesso</span>
                         </button>
                     </form>
                     <p class="paragraph paragraph-itali">
@@ -138,7 +141,7 @@
                     <p class="paragraph">
                         La migliore ricompensa per me: un ottimo risultato e la vostra fiducia. Pertanto, sono pronto a rispondere a qualsiasi domanda. La tua nuova vita inizia qui e ora.
                     </p>
-                    <p class="paragraph questions">Domande e risposte?</p>
+                    <p class="paragraph questions">Domande e risposte</p>
                 </div>
                 <div class="comments">
                     <div class="comments__top">
