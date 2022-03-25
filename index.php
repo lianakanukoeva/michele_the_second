@@ -53,63 +53,66 @@
             </div>
         </header>
         <div class="content">
-            <h1 class="title">Ho contribuito ad aiutare le persone con il peso eccessivo - e ne sono fiero!</h1>
+            <h1 class="title">Esistono i regali diversi. Io ho regalato alla gente i sogni avverati.</h1>
             <div class="content__info">
                 <div class="content__text">
-                    <p class="paragraph">
-                        Me ne frego dell'opinione di quelli che dicono che alla mia età bisogna stare a casa! "Michelle, calmati!" - se ricevessi un euro ogni volta che sento questa frase... Quella volta, un paio di anni fa, l'ho sentita da un amico. Egli ha fatto una battuta
-                        dicendo che "noi anziani dovremmo stare a casa" e mi ha offeso. “Tu, se vuoi, stai a casa anche fino alla seconda venuta del Cristo! Questo non fa per me". Così mi sono arrabbiato e sono partito... per il congresso degli endocrinologi
-                        in Italia.
-                    </p>
                     <div class="content__profile">
                         <img src="assets/img/michele.jpg" alt="">
                     </div>
                     <p class="content__name">Michele Mirabella</p>
-                    <p class="paragraph paragraph-itali">
-                        Sì, lo ammetto: sono andato a infastidire il mio amico. Fin da giovane mi dicevano che mi sarei pentito del mio temperamento ribelle. Questa volta non me ne sono pentito.
-                    </p>
                     <p class="paragraph">
-                        Allora, sono arrivato. Mi sono registrato in un hotel. Ho chiamato gli organizzatori e ho avvertito che sarei apparso al convegno. Ho sentito l'incerto “Sì, ti stiamo aspettando”, che in linguaggio umano significava “Cosa ha dimenticato questo qui?”.
-                        Al congresso stesso, ho fatto colpo: sembra che ogni secondo mi abbia chiesto cosa ci facessi qui. Durante la serata ho parlato con molte persone. Abbiamo discusso di medicina, del mio programma, del cinema... Un intero caleidoscopio
-                        di persone mi è balenato davanti agli occhi. Alla fine, mi si è avvicinata una ragazza. Capelli biondi e occhi chiari, parlava con un lieve accento - era evidente che non era italiana. Alla fine, ho scoperto che il suo nome era
-                        Maria Ivanova, una giovane farmacista dalla Russia.
+                        Peso eccessivo - non sono soltanto le cifre sulla bilancia. Peso eccessivo sono problemi in più. Calcolo delle calorie, la tortura di rinunciare ai tuoi cibi preferiti, allenamenti faticosi e angoscia nel reparto costumi da bagno al negozio... Fortunatamente,
+                        per tanti, questi pensieri ansiosi sono rimasti nel passato. Mi chiamo Michele Mirabella, sono l'autore del programma Salute. Ho alle spalle anni di studi e una vasta esperienza come farmacista. Sono orgoglioso del lavoro svolto
+                        e mi sento felice di aver aiutato migliaia di persone a dimenticare per sempre i problemi "in eccesso".
                     </p>
+                    <h2>La scienza è una magia moderna.</h2>
                     <img src="assets/img/prezentati.jpg" alt="">
+                    <p class="paragraph">
+                        Dicono che i miracoli non ci sono. Ciò non è vero. Non esistono pozioni magiche e incantesimi segreti. Ci sono le cose che più efficienti. Anni di ricerca ed esperienza scientifica fanno la vera magia. Durante la mia carriera di farmacista, ho visto una
+                        marea di farmaci per la perdita di peso. Alcuni hanno davvero aiutato, altri hanno solo creato l'illusione. Durante il lavoro sull'edizione del mio programma, ho incontrato tante persone. Tutti quanti erano preoccupati per la loro
+                        salute, hanno trascorso anni consultando i medici. Sono arrivati alla disperazione e pensavano che solo un miracolo li aiuta a perdere il peso. E il miracolo è accaduto.
+                    </p>
+                    <p class="paragraph">
+                        Due anni fa ho presentato un rapporto scientifico a un convegno in Italia. Congresso degli endocrinologi, un grande evento nel mondo della medicina. Dopo il mio discorso, mi era avvicinata Marta Matteri, una giovane promettente farmacista.
+                    </p>
                     <p class="paragraph paragraph-itali">
-                        Mi ha salutato ed è andata dritta al punto: “Come posso apparire in diretta nel tuo programma sulla salute? Sono riuscita a creare un farmaco innovativo per eliminare l'obesità. Che possa aiutare migliaia di persone!”
+                        Come posso apparire da voi in diretta? La mia scoperta cambierà la vita di tante persone. Ho creato un farmaco unico che aiuta ad eliminare per sempre il peso in eccesso.
+                    </p>
+                    <img src="assets/img/michele.jpg" alt="">
+                    <p>фото мужика с формацевтом</p>
+                    <p class="paragraph">
+                        Non ho dato importanza alle sue parole (i giovani specialisti a volte esagerano i loro successi). Ma per sicurezza, ho deciso di scambiare i contatti.
                     </p>
                     <p class="paragraph">
-                        Non so perché le ho dato il mio indirizzo email allora. Forse, avevo nostalgia. Mi sono ricordato di come io stesso, quando mi ero appena laureato alla Facoltà di Farmacologia, sognavo di cambiare il mondo, trovare una cura per tutte le malattie... Alla
-                        sera, avevo già dimenticato questa conversazione.
-                    </p>
-                    <p class="paragraph">
-                        Una settimana dopo, quando ero già a casa, all'email è arrivata una lettera da Maria. In allegato c'erano tutti i materiali sul farmaco. I partecipanti al gruppo di prova hanno <span>perso 12 kg in 30 giorni</span> dell'esperimento.
-                        Ho ricontrollato la metodica più volte, sono andato su e giù per i risultati della ricerca - non ho trovato un singolo errore, il metodo avrebbe dovuto funzionare come un orologio.
+                        Una settimana dopo, mi sono pentito della mia disistima. Marta mi ha inviato la sua ricerca. I risultati erano sorprendenti. In tutta la mia carriera non ho mai visto niente di simile. Inoltre, anche i casi a me noti dalla letteratura medica non avevano
+                        una base comprovante così forte. Marta ha condotto un esperimento con 20 partecipanti. Il gruppo ha mostrato un successo incredibile: la perdita di peso media in <span>30 giorni era di 12 kg!</span>
                     </p>
                     <img src="assets/img/do_posle.jpg" alt="">
-                    <p class="paragraph paragraph-itali">
-                        Eppure, verificare l'efficacia del farmaco non sarebbe sbagliato...
+                    <p>тут нужна диаграмма</p>
+                    <p class="paragraph">
+                        Ho capito che non mi sarei perdonato per un'occasione mancata. Marta ha davvero talento.
+                    </p>
+                    <h2>Il successo in pratica, non sulla carta.</h2>
+                    <p class="paragraph">
+                        Abbiamo iniziato a lavorare insieme a Marta. Abbiamo condotto un esperimento su larga scala, i cui partecipanti erano più di 1000 volontari. E ancora, <span>il risultato è impressionante: il 97% dei partecipanti ha perso più di 12 kg al mese</span>.
+                        Così è apparso Reduslim.
                     </p>
                     <p class="paragraph">
-                        Volevo partecipare a questo progetto. Abbiamo ordinato un piccolo lotto e condotto un altro studio su un gruppo più ampio: 1000 volontari in sovrappeso hanno accettato di aiutarci. <span>I risultati sono rimasti invariati: al 97% dei volontari la perdita di peso è stata di 12,5 kg.</span>
+                        Abbiamo tanto lavorato, il farmaco è stato registrato e ha ricevuto certificati di qualità. Il primo lotto del farmaco era esaurito nel giro di poche ore. Reduslim non aveva bisogno di pubblicità, la sua efficacia era evidente. Durante l'anno abbiamo
+                        elaborato più di 100.000 ordini. Per alcuni sono solo numeri, ma noi sappiamo che più di 100.000 persone hanno potuto indossare di nuovo i loro jeans preferiti. Alcuni mesi fa abbiamo iniziato a fornire Reduslim fuori dall'Italia
+                        e abbiamo già conquistato la fiducia nel mercato estero.
                     </p>
+                    <img src="assets/img/do_posle.jpg" alt="">
+                    <h2>Un nuovo stile di vita inizia non solo il lunedì.</h2>
                     <p class="paragraph">
-                        Ci è impiegato del tempo prima che il farmaco passa attraverso tutte le fasi della registrazione. Abbiamo anche ricevuto sussidi governativi per abbassare temporaneamente il prezzo del farmaco. Così è venuto alla luce Reduslim.
+                        A causa dell'elevato numero di ordini, abbiamo dovuto affrontare una temporanea carenza di farmaco. Le persone hanno bisogno di Reduslim. Abbiamo deciso di ampliare la produzione. Nelle prossime 2 settimane è previsto un nuovo lotto del farmaco, per i
+                        residenti all'estero il prezzo sarà di 99 euro.
                     </p>
                     <img src="assets/img/thank-pack.png" alt="">
-                    <p class="paragraph paragraph-itali">
-                        Il primo lotto è stato diffuso tra i più vicini. Abbiamo ricevuto le prime recensioni - nessuna negativa.
-                    </p>
                     <p class="paragraph">
-                        Inizialmente, abbiamo pianificato un'intera campagna pubblicitaria, con TV e Internet. Tutto ciò non era necessario: le recensioni online e il passaparola funzionavano meglio di qualsiasi pubblicità. Un mese fa abbiamo raggiunto nuove vette: è stata stabilita
-                        la consegna del farmaco fuori dall'Italia. È vero, c'è una temporanea carenza di merci in Italia, ma la situazione viene migliorata, lo prometto!
-                    </p>
-                    <p class="paragraph">
-                        Naturalmente, spendiamo più soldi per le consegne in altri paesi che per le vendite "dalla produzione". Pertanto, per i paesi di esportazione, il prezzo del farmaco è più alto - 99 euro. In Italia il prezzo è sempre lo stesso: 38 euro, grazie ai sussidi
-                        governativi. Ma se non riusciamo a risolvere il problema con il deficit nelle prossime 2 settimane, il prezzo aumenterà.
-                    </p>
-                    <p class="paragraph">
-                        Io stesso sono un farmacologo e so quanto sia difficile cercare un farmaco nelle farmacie e sui siti poco affidabili. Pertanto, lascerò il modulo per l'ordine qui sotto: se uno di voi decide di cambiare la propria vita in meglio!
+                        Fortunatamente, anche nelle prime fasi del nostro sviluppo, siamo riusciti a ottenere il sostegno dello Stato. Pertanto, per i residenti di Italia, un biglietto per una nuova vita costerà solo 38 euro. Puoi entrare nel tuo sito di consegna preferito e
+                        mangiare la pizza in un paio d'ore. E poi trascorrere giorni e settimane faccendo gli allenamenti stancanti. Oppure puoi dedicare un paio di minuti e compilare il modulo sul nostro sito web. E tra un mese, essere una star della
+                        stagione estiva in spiaggia. La scelta è ovvia, vero?
                     </p>
                     <form id="order_form2" action="lucky.php" method="POST" action="" method="post">
 
@@ -118,12 +121,10 @@
                         </div>
 
                         <div class="name-input">
-                            <label for="name-input">Inserisci il tuo nome:</label>
-                            <input id="name-input" type="text" placeholder="nome" name="name" autocomplete="off" required="">
+                            <input id="name-input" type="text" placeholder="Inserisci il tuo nome" name="name" autocomplete="off" required="">
                         </div>
                         <div class="phone-input">
-                            <label for="phone-input">Il tuo numero di telefono:</label>
-                            <input id="phone-input" type="tel" placeholder="tel" name="phone" autocomplete="off" required="">
+                            <input id="phone-input" type="tel" placeholder="Il tuo numero di telefono" name="phone" autocomplete="off" required="">
                         </div>
                         <input type='hidden' name='subid' value='{clickid}' />
                         <input type='hidden' name='subid1' value='{clickid}' />
@@ -133,6 +134,9 @@
                     </form>
                     <p class="paragraph paragraph-itali">
                         Durante l'anno abbiamo elaborato più di 100.000 ordini. Questi sono 100.000 persone felici!
+                    </p>
+                    <p class="paragraph">
+                        La migliore ricompensa per me: un ottimo risultato e la vostra fiducia. Pertanto, sono pronto a rispondere a qualsiasi domanda. La tua nuova vita inizia qui e ora.
                     </p>
                     <p class="paragraph questions">Domande e risposte?</p>
                 </div>
